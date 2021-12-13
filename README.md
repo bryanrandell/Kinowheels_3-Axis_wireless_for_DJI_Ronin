@@ -14,4 +14,18 @@ Transmition to the Ronin can be done via a cable or wirelessly with a main trans
 3x Toggle Switch (to invert the wheel rotation)\
 2x SN74HC logical inverter (required for transmitting SBUS signal)\
 
+##Optional debug Sbus receiver
+A Sbus receiver, usefull to have a direct return from a Sbus signal for debugging purpose\
+1x Arduino UNO\
+1x LCD 0.96' Adafruit I2C\
+1x SN74HC logical inverter\
+
+#Libraries
+BMC_SBUS\
+BMC_SBUS_DUE\
+Adafruit_SSD1306\
+RF24\
+sbus-arduino (for the debug SBUS receiver)\
+
+
 Still work in progress, will upload tutos and photos...
