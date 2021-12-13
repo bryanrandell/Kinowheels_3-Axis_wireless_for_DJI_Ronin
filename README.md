@@ -3,8 +3,10 @@
 # Description
 Use the kinowheels from https://www.kinowheels.com/ to command a DJI Ronin (tested on DJI Ronin 2, DJI Ronin S)via SBUS protocol using Arduino boards.\
 Transmition to the Ronin can be done via a cable or wirelessly with a main transmitter powered by a Vlock batterie and a receiver powered by the Ronin.
-# Hardware
-# Transmitter - Receiver
+
+# Hardware
+
+## Transmitter - Receiver
 1x Arduino DUE (transmitter)\
 1x Arduino NANO (receiver)\
 2x Nrf24L01 (wireless 2,4 GHz module)\
