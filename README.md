@@ -14,4 +14,4 @@ Transmition to the Ronin can be done via a cable or wirelessly with a main trans
 3x Toggle Switch (to invert the wheel rotation)\
 2x SN74HC logical inverter (required for transmitting SBUS signal)\
 
-Still work in progress, will upload tutos and photos
+Still work in progress, will upload tutos and photos...
