@@ -1,8 +1,8 @@
 # Kinowheels_3-Axis_wireless_for_DJI_Ronin
-Project made with Quentin Boschini.
+Project made with __Quentin Boschini__.
 
 # Description
-Use the kinowheels from https://www.kinowheels.com/ to command a DJI Ronin (tested on DJI Ronin 2, DJI Ronin S)via SBUS protocol using Arduino boards.\
+Use the [Kino wheels](https://www.kinowheels.com/) to command a DJI Ronin (tested on DJI Ronin 2, DJI Ronin S)via SBUS protocol using Arduino boards.\
 Transmition to the Ronin can be done via a cable or wirelessly with a main transmitter powered by a Vlock batterie and a receiver powered by the Ronin.
 
 # Hardware
