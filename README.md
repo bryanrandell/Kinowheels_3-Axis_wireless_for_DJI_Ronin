@@ -23,7 +23,7 @@ A Sbus receiver, usefull to have a direct return from a Sbus signal for debuggin
 - 1x LCD 0.96' Adafruit I2C
 - 1x SN74HC logical inverter
 
-# Libraries
+# Arduino Libraries
 - BMC_SBUS -> https://github.com/boldstelvis/BMC_SBUS
 - BMC_SBUS_DUE (just a modified version from the one bellow you can find it in the repository)
 - Adafruit_SSD1306 -> download from the Arduino IDE
