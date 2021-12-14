@@ -1,4 +1,4 @@
-# Kinowheels_3-Axis_wireless_for_DJI_Ronin
+# Kinowheels 3-Axis wireless for DJI Ronin
 Project made with __Quentin Boschini__.
 
 # Description
@@ -30,6 +30,9 @@ A Sbus receiver, usefull to have a direct return from a Sbus signal for debuggin
 - Adafruit_GFX -> download from the Arduino IDE (automaticaly installed with Adafruit_SSD1306 ?)
 - RF24 -> https://github.com/nRF24/RF24
 - sbus-arduino (for the debug SBUS receiver) -> https://github.com/bolderflight/sbus
+
+# Future plan
+- [ ] controlling modes and profiles with external buttons or with sub menus with the LCD
 
 
 ## Still work in progress, will upload tutos and photos...
