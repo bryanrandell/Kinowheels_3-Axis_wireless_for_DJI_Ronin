@@ -23,11 +23,12 @@ A Sbus receiver, usefull to have a direct return from a Sbus signal for debuggin
 1x SN74HC logical inverter
 
 # Libraries
-BMC_SBUS\
-BMC_SBUS_DUE\
-Adafruit_SSD1306\
-RF24\
-sbus-arduino (for the debug SBUS receiver)
+BMC_SBUS -> https://github.com/boldstelvis/BMC_SBUS\
+BMC_SBUS_DUE (just a modified version from the one bellow you can find it in the repository)\
+Adafruit_SSD1306 -> download from the Arduino IDE\
+Adafruit_GFX -> download from the Arduino IDE (automaticaly installed with Adafruit_SSD1306 ?)\
+RF24 -> https://github.com/nRF24/RF24\
+sbus-arduino (for the debug SBUS receiver) -> https://github.com/bolderflight/sbus
 
 
 ## Still work in progress, will upload tutos and photos...
