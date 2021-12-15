@@ -6,6 +6,8 @@ Project made with __Quentin Boschini__.
 Use the [Kino wheels](https://www.kinowheels.com/) to command a DJI Ronin (tested on DJI Ronin 2, DJI Ronin S)via SBUS protocol using Arduino boards.\
 Transmition to the Ronin can be done via a cable or wirelessly with a main transmitter powered by a Vlock batterie and a receiver powered by the Ronin.
 
+![Kinowheels](./images/kinowheels_front_01.jpg)
+
 # Hardware
 - You can find all the Fritzing schematics in the repo.
 
