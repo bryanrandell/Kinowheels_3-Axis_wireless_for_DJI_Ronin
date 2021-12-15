@@ -6,6 +6,7 @@ Use the [Kino wheels](https://www.kinowheels.com/) to command a DJI Ronin (teste
 Transmition to the Ronin can be done via a cable or wirelessly with a main transmitter powered by a Vlock batterie and a receiver powered by the Ronin.
 
 # Hardware
+- You can find all the Fritzing schematics in the repo.
 
 ## Transmitter - Receiver
 - 1x Arduino DUE (transmitter)
@@ -33,6 +34,6 @@ A Sbus receiver, usefull to have a direct return from a Sbus signal for debuggin
 
 # Future plan
 - [ ] controlling modes and profiles with external buttons or with sub menus with the LCD
-
+- [ ] Designing new wheels more balanced, with conic shaped axis
 
 ## Still work in progress, will upload tutos and photos...
