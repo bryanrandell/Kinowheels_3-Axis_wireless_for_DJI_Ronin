@@ -1,3 +1,5 @@
+![Logo](./images/collectif bord cadre.jpeg)
+
 # Kinowheels 3-Axis wireless for DJI Ronin
 Project made with __Quentin Boschini__.
 
