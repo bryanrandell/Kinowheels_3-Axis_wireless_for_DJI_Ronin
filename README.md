@@ -1,4 +1,4 @@
-![logo](./images/logo_CBC.jpg)
+![logo](./images/logoCBC.jpg)
 
 # Kinowheels 3-Axis wireless for DJI Ronin
 Project made with __Quentin Boschini__.
