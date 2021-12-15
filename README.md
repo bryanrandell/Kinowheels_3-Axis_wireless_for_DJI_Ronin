@@ -33,7 +33,7 @@ A Sbus receiver, usefull to have a direct return from a Sbus signal for debuggin
 - sbus-arduino (for the debug SBUS receiver) -> https://github.com/bolderflight/sbus
 
 # Future plan
-- [ ] controlling modes and profiles with external buttons or with sub menus with the LCD
+- [ ] Controlling modes and profiles with external buttons or with sub menus with the LCD
 - [ ] Designing new wheels more balanced, with conic shaped axis
 
 ## Still work in progress, will upload tutos and photos...
