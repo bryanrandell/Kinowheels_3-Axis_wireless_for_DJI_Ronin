@@ -39,3 +39,5 @@ A Sbus receiver, usefull to have a direct return from a Sbus signal for debuggin
 - [ ] Designing new wheels more balanced, with conic shaped axis
 
 ## Still work in progress, will upload tutos and photos...
+
+![Our faces](./images/DSC_0488.JPG)
