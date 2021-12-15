@@ -1,0 +1,4 @@
+Roulement Bering
+diametre interieur 15MM
+diametre exterieur 32MM
+épaisseur 9MM
